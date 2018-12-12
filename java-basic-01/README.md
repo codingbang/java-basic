@@ -1,0 +1,19 @@
+# Java Data Type
+- java에는 기본형 타입과 참조형 타입이 있다.
+  - 기본형 타입
+    - 정수형(byte, short, int, long)
+      - DataTypeEx1.java 파일
+    - 실수형(float, double)
+      - DataTypeEx2.java 파일
+    - 문자형(char)
+      - DataTypeEx3.java 파일
+    - 논리형(boolean)
+      - DataTypeEx4.java 파일
+  - 참조형 타입
+    - String(문자열형)
+      - DataTypeEx5.java 파일
+    - Arry(배열)
+    - Class
+    - Interface
+    - enum
+    - `배열, Class, Interface, enum`내용 은 다음에 다룰 예정.
