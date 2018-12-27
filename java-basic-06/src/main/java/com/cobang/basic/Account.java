@@ -17,6 +17,7 @@ public class Account {
       bankName = "my은행";
   }
 
+
   //디폴트 생성자 메소드
   public Account() {
       System.out.println("call default constructor method!!");
